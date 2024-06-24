@@ -1,4 +1,6 @@
-# Fast Google Dorks Scan
+# Fast Google Dorks Scan by KH
+
+### In this version, you need to place for ex. domains.txt file
 
 The OSINT project, the main idea of which is to collect all the possible Google dorks search combinations and to find the information about the specific web-site: common admin panels, the widespread file types and path traversal. The 100% automated.
 
